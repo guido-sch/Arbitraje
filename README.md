@@ -32,10 +32,15 @@ El código de python (arbitraje_tasas.py) calcula cuál es la mejor estrategia e
 4. Inicialización de la conexión por Websocket.
 5. Subscripción para recibir la información de mercado.
 
+Una vez calculado el arbitraje, el mismo se muestra de la siguiente forma
+<img src="/figuras/results.png" width="800">
 
 
-<h5 align="left"> **Citas** </h5>
+
+<h5 align="left"> Citas </h5>
+
 Ejemplos de https://github.com/matbarofex/pyRofex/tree/master/samples
+
 Video https://www.youtube.com/watch?v=0H8t6D2xN7k
 
 
