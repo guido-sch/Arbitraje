@@ -5,7 +5,7 @@
     4- Inicializacion del Websocket Connection
     5- Subscripcion para recibir la informacion de mercado
     6- (comentado) Testeo si se recibe informacion de ordenes
-v1 - 21 12 2022 - Guido Schifani - primer draf    
+v1 - 21 12 2022 - Guido Schifani - primer draft    
 v2 - 22 12 2022 - Guido Schifani - se agrego 
                         1) unittest
                         2) envio de ordenes
