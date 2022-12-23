@@ -165,15 +165,15 @@ pyRofex.init_websocket_connection(market_data_handler=market_data_handler,
                                   exception_handler=exception_handler)
 
 
-# 5- Subscripcion para recibir la informacion de mercado
+# 5- suscripción para recibir la informacion de mercado
 # Entries que se van a tener en cuenta (BIDS, OFFERS, LAST)
 entries = [pyRofex.MarketDataEntry.BIDS,
            pyRofex.MarketDataEntry.OFFERS,
            pyRofex.MarketDataEntry.LAST]
 
-# subscripcion a los intrumentos definidos arriba
+# suscripción a los intrumentos definidos arriba
 print("############################################################")
-print("Subscripcion a los siguientes productos"+str(instruments))
+print("Suscripción a los siguientes productos"+str(instruments))
 print("############################################################")
 pyRofex.market_data_subscription(tickers=instruments,
                                  entries=entries)
