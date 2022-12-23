@@ -33,7 +33,8 @@ El código de python (arbitraje_tasas.py) calcula cuál es la mejor estrategia e
 5. Subscripción para recibir la información de mercado.
 
 Una vez calculado el arbitraje, el mismo se muestra de la siguiente forma
-<img src="/figuras/results.png" width="800">
+
+<img src="/figuras/Results.png" width="800">
 
 
 
